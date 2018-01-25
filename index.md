@@ -1,32 +1,21 @@
 ## Mark app - Available in the App Store, and alpha available in Play store.
+![](img/App Store Copy@3x.png)
 
-You can use the [editor on GitHub](https://github.com/thejohncotton/Mark-App/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Made in native for ios by [John Cotton](https://github.com/thejohncotton/) for the purpose of having a lightweight simple application for syncing audio and video in production.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Download Mark in the [App Store](https://itunes.apple.com/us/app/mark-slate/id1189204279?mt=8)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- Download Mark (ALPHA) on [Google Play](https://play.google.com/store/apps/details?id=com.cotton.john.mark)
 
 
-### Support or Contact
+### Screen Shots
+![Mark app screenshot](img/643x0w.png)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Mark app screenshot 2](img/643x0w2.png)
+
+
+
+
+### Support/Contact
+
+Having trouble with MarkSlate? Feel free to open up a [support ticket](https://github.com/thejohncotton/markApp/issues) on the github repo.
